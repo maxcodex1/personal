@@ -1,0 +1,53 @@
+h1{
+	font-size: xxx-large;
+	font-family: "cooper black";
+	text-align: center;
+	color: whitesmoke;
+	background-color: blue;
+	width: 350px;
+	height: 100px;
+	border: outset;
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+	
+
+
+}
+Body{
+	text-align: center;
+	background-color: #666666;
+
+}
+header{
+	margin: 60px;
+}
+p{
+	color: whitesmoke;
+}
+
+	
+}
+details{
+	clear: both;
+
+}
+a{
+	color: blue;
+	display: inline-block;
+	text-decoration: none;
+	padding: 4px;
+	margin:0 auto;
+	margin-top: 10px;
+	width: 200px;
+	font-size: xx-large;
+	font-variant: small-caps;
+}
+button{
+	background-color: hotpink;
+	width: auto;
+	text-align: center;
+	float: right;
+	margin: 80px;
+
+}
